@@ -22,7 +22,7 @@ nltk.download()
 In order to download the repository, use [git](https://git-scm.com/download/win) from your command line:
 
 ```bash
-git clone 
+git clone https://github.com/Lismera/text_cleaner.git
 ```
 cd into the cloned folder :  
 
